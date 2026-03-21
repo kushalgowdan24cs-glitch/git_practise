@@ -1,1 +1,1 @@
-this is the utility fuctions of vega software
+this is the second utility fuctions of vega software

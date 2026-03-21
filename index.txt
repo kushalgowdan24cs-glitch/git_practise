@@ -1,1 +1,1 @@
-this the first version of vega software
+this the second version of vega software
